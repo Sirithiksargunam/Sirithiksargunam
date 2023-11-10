@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sirithiksargunam
-- 👀 I’m interested in Full Stack Development 
+- 👀 I’m interested in Full Stack Development and AI && ML 
 - 🌱 I’m currently learning B.E Computer Engineering 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Can reach me through Github
